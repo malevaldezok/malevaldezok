@@ -1,7 +1,7 @@
 ## Hola!👋, soy Malena Valdez  
   
 
-<a href="https://github.com/malevadlezok" target="_blank">
+<a href="https://github.com/malevaldezok" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/malevaldezok" target="_blank">
@@ -17,7 +17,7 @@
 ### Un poco sobre mí!  
 📚 Soy Full Stack Developer con experiencias en proyectos grupales como individuales.
 
-📌 Con una mentalidad detallista me esfuerzo por crear soluciones precisas y efectivas. Tengo un poder de adaptabilidad que me permite enfrentar nuevos retos con entusiasmo y aprender rápidamente para dar lo mejor en cada proyecto que aborde.
+📌 Porteña viviendo en la ciudad de Córdoba 🌆 Con una mentalidad detallista me esfuerzo por crear soluciones precisas y efectivas. Tengo un poder de adaptabilidad que me permite enfrentar nuevos retos con entusiasmo y aprender rápidamente para dar lo mejor en cada proyecto que aborde.
 
 🚀 Tengo un background en la carrera de psicología, lo que ha enriquecido el desarrollo de mis soft skills y me permitió abordar el desarrollo desde una perspectiva única. La combinación de esta y mi pasión por el desarrollo me impulsa a aportar valor en cada oportunidad. ¡Lista para construir soluciones impactantes y seguir creciendo en mi carrera como developer!  
 
