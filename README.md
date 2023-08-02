@@ -19,7 +19,7 @@
 
 📌 Porteña viviendo en la ciudad de Córdoba 🌆 Con una mentalidad detallista me esfuerzo por crear soluciones precisas y efectivas. Tengo un poder de adaptabilidad que me permite enfrentar nuevos retos con entusiasmo y aprender rápidamente para dar lo mejor en cada proyecto que aborde.
 
-🚀 Tengo un background en la carrera de psicología, lo que ha enriquecido el desarrollo de mis soft skills y me permitió abordar el desarrollo desde una perspectiva única. La combinación de esta y mi pasión por el desarrollo me impulsa a aportar valor en cada oportunidad. ¡Lista para construir soluciones impactantes y seguir creciendo en mi carrera como developer!  
+🚀 Tengo un background en la carrera de Prof. de psicología, lo que ha enriquecido el desarrollo de mis soft skills y me permitió abordar el desarrollo desde una perspectiva única. La combinación de esta y mi pasión por el desarrollo me impulsa a aportar valor en cada oportunidad. ¡Lista para construir soluciones impactantes y seguir creciendo en mi carrera como developer!  
 
 
 <br/>  
