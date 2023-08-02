@@ -14,7 +14,7 @@
 
 
 
-### Un poco sobre mí!  
+### Un poco sobre mí! 🙋
 📚 Soy Full Stack Developer con experiencias en proyectos grupales como individuales.
 
 📌 Porteña viviendo en la ciudad de Córdoba 🌆 Con una mentalidad detallista me esfuerzo por crear soluciones precisas y efectivas. Tengo un poder de adaptabilidad que me permite enfrentar nuevos retos con entusiasmo y aprender rápidamente para dar lo mejor en cada proyecto que aborde.
